@@ -1,0 +1,21 @@
+PODS:
+  - ComponentKit (0.15.1)
+
+DEPENDENCIES:
+  - ComponentKit (from `https://github.com/avnerbarr/componentkit.git`)
+
+EXTERNAL SOURCES:
+  ComponentKit:
+    :git: https://github.com/avnerbarr/componentkit.git
+
+CHECKOUT OPTIONS:
+  ComponentKit:
+    :commit: e11f101241bb922f19b7be4b93a275adcc9c59ab
+    :git: https://github.com/avnerbarr/componentkit.git
+
+SPEC CHECKSUMS:
+  ComponentKit: beef88630f344efb8344fe40fc6fc7c1732b68c8
+
+PODFILE CHECKSUM: 686fb94e7a70b8feabf3a7a9318012ef424e83f5
+
+COCOAPODS: 1.1.1
