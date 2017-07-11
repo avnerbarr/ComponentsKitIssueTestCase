@@ -1,4 +1,5 @@
 Shows a problem in multiline buttons per https://github.com/facebook/componentkit/issues/843
 
-![Alt text]
-(Images/screen.png)
+<p align="center">
+  <img src="Images/screen.png"/>
+</p>
